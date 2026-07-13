@@ -1,0 +1,91 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    
+}
+.nav{
+    color:white;
+    background-color: #C0392B;
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+ul,li{
+    display: inline;
+    color: white;
+    
+}
+.four:hover{
+    color: rgb(40, 178, 51);
+    cursor: pointer;
+}
+.one{
+    margin: 20px;
+    border-color: black;
+    border-width: 2px;
+    border-style: solid;
+    display: inline-block;
+    width: 280px;
+    text-align: center;
+}
+.menu{
+    text-align: center;
+    background-color: #F4F4F4;
+}
+.one:hover{
+    background-color: rgb(40, 178, 51);
+    cursor: pointer;
+}
+button{
+    background-color: black;
+    color: white;
+    border-radius: 20px;
+    border:none;
+    cursor: pointer;
+    padding: 8px;
+    margin: 5px;
+}
+.three:hover{
+    background-color: #C0392B;
+}
+
+.contact{
+    text-align: center;
+    padding-top: 10px;
+    color:white;
+    background-color: #C0392B ;
+    padding-bottom: 10px
+}
+.contact div{
+    margin-bottom: 10px;
+}
+
+label{
+    display: inline-block;
+    width: 50px; 
+}
+input{
+    width: 200px;
+    height: 25px;
+}
+
+.two{
+    background-color: rgb(40, 178, 51);
+    color: white;
+    border-radius: 10px;
+    border:none;
+    width: 50%;
+    cursor: pointer;
+    padding: 8px;
+    margin: 5px;
+}
+
+.four{
+    display: inline;
+    color: white;
+}
+
+.contact{
+    
+    
+}
